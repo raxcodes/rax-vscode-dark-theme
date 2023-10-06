@@ -1,0 +1,34 @@
+{
+  "name": "rax-theme",
+  "displayName": "rax-theme",
+  "description": "",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raxcodes/rax-vscode-dark-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "VScode theme",
+    "dark theme",
+    "raxcodes",
+    "raxcodes theme",
+    "dark themes",
+    "dark theme"
+  ],
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "raxcodes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/raxcodes-color-theme.json"
+      }
+    ]
+  }
+}
