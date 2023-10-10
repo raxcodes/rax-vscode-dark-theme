@@ -1,7 +1,6 @@
  {
   "name": "RaxCodes Dark Theme",
- 
-  "colors": {
+   "colors": {
     "editor.background": "#1e1e1e",  
     "editor.foreground": "#abb2bf",
   "displayName": "rax-theme",
