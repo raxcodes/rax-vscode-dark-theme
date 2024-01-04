@@ -6,7 +6,7 @@
 
 - **Customized Syntax Highlighting:** Enjoy a thoughtful syntax highlighting scheme that makes different code elements stand out.
 
-- **Dark Mode Ready:** Aristo is optimized for dark mode, ensuring a seamless experience for users who prefer a darker theme.
+- **Dark Mode Ready:** Glowing Forest is optimized for dark mode, ensuring a seamless experience for users who prefer a darker theme.
 
 - **Vibrant Accents:** The accent colors add a touch of vibrancy to the UI, making your coding environment more visually appealing.
 
