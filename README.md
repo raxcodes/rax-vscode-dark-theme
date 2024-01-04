@@ -1,8 +1,4 @@
 ﻿# Rax_VSCode_Theme
-Glow Forest
-# Aristo Theme
-
-Aristo is a visually appealing and soothing VSCode theme that brings a touch of elegance to your coding environment.
 
 ## Features
 
